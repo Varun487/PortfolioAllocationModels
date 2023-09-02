@@ -120,9 +120,9 @@ We compute the following metrics post running backtests:
 1. Initialize the project
 
 ```bash
-git clone git@github.com:Varun487/FE630_Project.git
+git clone git@github.com:Varun487/PortfolioAllocationModels.git
 cd FE630_Project
 pip3 install -r requirements.txt
 ```
 
-2. Run the jupyter notebook `FE630_Project.ipynb`
+2. Run the jupyter notebook `Portfolio Allocation Models Comparision.ipynb`
