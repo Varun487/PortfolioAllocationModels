@@ -121,7 +121,7 @@ We compute the following metrics post running backtests:
 
 ```bash
 git clone git@github.com:Varun487/PortfolioAllocationModels.git
-cd FE630_Project
+cd PortfolioAllocationModels
 pip3 install -r requirements.txt
 ```
 
